@@ -1,6 +1,6 @@
 # Text File Word Processor
-Arranges .txt files into neat paragraphs with specified characters per line.
-Features
+Arranges .txt files into neat paragraphs with specified characters per line. <P>
+Features:
 - gets rid of unnecessary whitespace (e.g. 5 spaces between two words is reduced to 1 space; 2 empty lines between words is reduced to 1 space)
 - left-justify paragraphs
 - creates a new paragraph when encountering a paragraph tag (if encounters consecutive tags, it will only create one new line)
